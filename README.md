@@ -73,7 +73,7 @@ Os nomes dos sites são só para os humanos, pois as máquinas têm uma outra fo
 
 Exemplo de IP do google: 142.250.79.14 (descobri usando o comando nslookup)
 
-![Screenshot](imagens/ip-google.png)
+![Screenshot](imagens/ip-google.jpeg)
 
 No final das contas, o que isso significa? Que você pode acessar o google tanto com `www.google.com` ou com `142.250.79.14`. Testa aí pra você ver!
 
@@ -118,7 +118,7 @@ Quando requisitamos alguma página, ou seja, quando tentamos acessar um site, es
 
 A comunicação segue sempre esse modelo: o cliente envia uma requisição e o servidor responde. Requisição e Resposta ou em inglês: Request-Response. Aqui é importante saber que a comunicação sempre começa com o cliente: é ele quem pede as informações. O servidor responde apenas o que foi requisitado e nunca inicia a comunicação!
 
-![Screenshot](imagens/request-response.png)
+![Screenshot](imagens/request-response.jpeg)
 
 
 ## Comunicação sem estado
