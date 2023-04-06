@@ -1,6 +1,6 @@
 # HTTP: Entendendo a web por baixo dos panos
 
-Esse é um resumo do curso HTTP: Entendendo a web por baixo dos panos da Alura com algumas adições minhas.
+Esse é um resumo do curso 'HTTP: Entendendo a web por baixo dos panos' da Alura com algumas adições de conteúdo feitas por mim.
 
 ## Internet
 
